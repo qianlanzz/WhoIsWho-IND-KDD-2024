@@ -23,7 +23,7 @@
 Clone this repo.
 
 ```shell
-https://github.com/qianlanzz/WhoIsWho-IND-KDD-2024.git
+git clone https://github.com/qianlanzz/WhoIsWho-IND-KDD-2024.git
 cd WhoIsWho-IND-KDD-2024
 ```
 
