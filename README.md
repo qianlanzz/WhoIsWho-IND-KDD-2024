@@ -1,4 +1,4 @@
-# WhoIsWho-IND-KDD-2024 rank4
+# WhoIsWho-IND-KDD-2024 rank7
 
 ## Prerequisites
 
